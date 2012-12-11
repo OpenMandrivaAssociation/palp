@@ -3,7 +3,7 @@ Group:		Sciences/Mathematics
 License:	GPL
 Summary:	PALP: A Package for Analyzing Lattice Polytopes
 Version:	1.1
-Release:	%mkrel 3
+Release:	%mkrel 2
 Source:		http://hep.itp.tuwien.ac.at/~kreuzer/CY/palp/%{name}-%{version}.tar.gz
 Source1:	http://arxiv.org/pdf/math/0204356v1
 URL:		http://hep.itp.tuwien.ac.at/~kreuzer/CY/CYpalp.html
@@ -34,3 +34,13 @@ rm -rf %{buildroot}
 %{_bindir}/*
 %dir %doc %{_docdir}/%{name}
 %doc %{_docdir}/%{name}/%{name}.pdf
+
+
+%changelog
+* Thu Mar 26 2009 Paulo Andrade <pcpa@mandriva.com.br> 1.1-1mdv2009.1
++ Revision: 361502
+- Initial import o pal version 1.1.
+  PALP: A Package for Analyzing Lattice Polytopes
+  http://hep.itp.tuwien.ac.at/~kreuzer/CY/CYpalp.html
+- palp
+
