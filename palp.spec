@@ -1,7 +1,7 @@
 Name:		palp
 Group:		Sciences/Mathematics
 License:	GPL
-Summary:	PALP: A Package for Analyzing Lattice Polytopes
+Summary:	: A Package for Analyzing Lattice Polytopes
 Version:	1.1
 Release:	%mkrel 2
 Source:		http://hep.itp.tuwien.ac.at/~kreuzer/CY/palp/%{name}-%{version}.tar.gz
