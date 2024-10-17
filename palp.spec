@@ -6,7 +6,7 @@ Version:	1.1
 Release:	4
 Source:		http://hep.itp.tuwien.ac.at/~kreuzer/CY/palp/%{name}-%{version}.tar.gz
 Source1:	http://arxiv.org/pdf/math/0204356v1
-URL:		http://hep.itp.tuwien.ac.at/~kreuzer/CY/CYpalp.html
+URL:		https://hep.itp.tuwien.ac.at/~kreuzer/CY/CYpalp.html
 
 %description
 PALP: A Package for Analyzing Lattice Polytopes with Applications to
