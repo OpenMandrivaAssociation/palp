@@ -8,6 +8,7 @@ Source:		http://hep.itp.tuwien.ac.at/~kreuzer/CY/palp/%{name}-%{version}.tar.gz
 Source1:	http://arxiv.org/pdf/math/0204356v1
 URL:		https://hep.itp.tuwien.ac.at/~kreuzer/CY/CYpalp.html
 
+BuildRequires:	make
 %description
 PALP: A Package for Analyzing Lattice Polytopes with Applications to
 Toric Geometry.
